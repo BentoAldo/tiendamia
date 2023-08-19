@@ -1,0 +1,18 @@
+# WebStorm
+client/.idea/
+server/.idea/
+
+# Node.js / Backend
+server/node_modules/
+server/package-lock.json
+
+# React with Vite / Frontend
+client/node_modules/
+client/package-lock.json
+client/vite.config.js
+client/.vite/
+client/dist/
+
+# Unwanted files to track
+*.log
+.DS_Store
