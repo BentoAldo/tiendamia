@@ -16,3 +16,5 @@ client/dist/
 # Unwanted files to track
 *.log
 .DS_Store
+
+./.idea
